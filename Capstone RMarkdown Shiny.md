@@ -1,5 +1,5 @@
 ---
-title: "Capstone Project: Data Breaches at Hipaa Covered Entities"
+title: "Data Breaches at Hipaa Covered Entities"
 output: github_document
 ---
 ## Analysis of Data Breaches of HIPAA Covered Entities (CE)
